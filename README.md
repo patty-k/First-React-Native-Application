@@ -1,11 +1,11 @@
 # First-React-Native-Application
-With the help of JavaScript Mastery on youtube, I created my first mobile app with React Native. I first learned the basics of React through creating a simple todolist website before jumping into this as React is one of the most valuable skills to have. About 75% of knowledge from making websites can translate to building mobile applications. 
+With the help of a youtube tutorial, I created my first mobile app with React Native gaining valuable experience. I first learned the basics of React through creating a simple todolist website before jumping into this project as React is one of the most valuable skills to have. About 75% of knowledge from making websites can translate to building mobile applications such as this one. 
 
 _**Demo of the Application (Timestamp: 1:09 - 1:31): https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=5150s**_
 
-In the video, I came to understand many React Native terms that are similar to html. For example, **text** in react native - **p and h tags** in react, **View** in react native - **div** in html.
+I came to understand many React Native terms that are similar to html. To name a few, **text** in react native - **p and h tags** in react, **View** in react native - **div** in html.
 
-Through this 2 hour and 15 minute tutorial I learned:
+Some valuable skills I learned while developing this project:
 - develop visually appealing UI/UX designs
 - fetch data from an external API and integrate it
 - implement search & pagination functionality
